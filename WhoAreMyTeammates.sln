@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoAreMyTeammates", "WhoAreMyTeammates.csproj", "{5B1CEC81-BDAA-4A00-BC21-A6E7E94DEB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1CEC81-BDAA-4A00-BC21-A6E7E94DEB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1CEC81-BDAA-4A00-BC21-A6E7E94DEB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1CEC81-BDAA-4A00-BC21-A6E7E94DEB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1CEC81-BDAA-4A00-BC21-A6E7E94DEB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
